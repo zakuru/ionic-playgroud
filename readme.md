@@ -7,5 +7,5 @@ Normally during scroll a first tap should stop the scroll - a second tap on the 
 
 
 - Bug 2: The scoll momentum is too fast - a native app wont behave this way - is there a way to limit it ?
-More visible on https://github.com/zakuru/ionic-playgroud/blob/main/IONIC_SCROLL_TOO_FAST.mp4
+  More visible on https://github.com/zakuru/ionic-playgroud/blob/main/IONIC_SCROLL_TOO_FAST.mp4
 ![Scroll Too Fast](https://github.com/zakuru/ionic-playgroud/blob/main/IONIC_SCROLL_TOO_FAST.gif)
