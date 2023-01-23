@@ -1,3 +1,5 @@
 
 Show case of incorrect click fired while scroll
 Normally during scroll a first tap should stop the scroll - a second tap on the card should open it
+
+![caption](./IONIC_CLICK_ISSUE.gif)
